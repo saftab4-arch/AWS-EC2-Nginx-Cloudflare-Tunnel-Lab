@@ -16,6 +16,10 @@ The goal was to:
 
 ---
 
+## Solution Architecture
+
+![AWS EC2 + Cloudflare Tunnel Architecture](Screenshots/01-solution-architecture-diagram.png)
+
 # Architecture Overview
 
 Final Lab Architecture
