@@ -18,7 +18,7 @@ The goal was to:
 
 ## Solution Architecture
 
-![AWS EC2 + Cloudflare Tunnel Architecture](Screenshots/01-solution-architecture-diagram.png)
+![AWS EC2 + Cloudflare Tunnel Architecture](Screenshots/01-aws-cloudflare-tunnel-architecture.png)
 
 # Architecture Overview
 
